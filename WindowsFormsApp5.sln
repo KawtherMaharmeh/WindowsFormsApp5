@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp5", "WindowsFormsApp5\WindowsFormsApp5.csproj", "{E3F37EB1-60E7-4A8E-8400-F18A08654ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "event", "event\event.csproj", "{05FD5D5A-55DB-460C-B77E-2A8AA61BC19B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "event 2", "event 2\event 2.csproj", "{E293B6DD-0ECC-4E8F-B644-8EDB910CBCB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3F37EB1-60E7-4A8E-8400-F18A08654ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F37EB1-60E7-4A8E-8400-F18A08654ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F37EB1-60E7-4A8E-8400-F18A08654ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F37EB1-60E7-4A8E-8400-F18A08654ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FD5D5A-55DB-460C-B77E-2A8AA61BC19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FD5D5A-55DB-460C-B77E-2A8AA61BC19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FD5D5A-55DB-460C-B77E-2A8AA61BC19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FD5D5A-55DB-460C-B77E-2A8AA61BC19B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E293B6DD-0ECC-4E8F-B644-8EDB910CBCB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E293B6DD-0ECC-4E8F-B644-8EDB910CBCB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E293B6DD-0ECC-4E8F-B644-8EDB910CBCB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E293B6DD-0ECC-4E8F-B644-8EDB910CBCB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBC570F3-B0BE-4E3E-96DB-1D88395FA4E6}
+	EndGlobalSection
+EndGlobal
